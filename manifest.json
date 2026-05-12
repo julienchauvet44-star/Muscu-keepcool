@@ -1,0 +1,22 @@
+{
+  "name": "Muscu KeepCool",
+  "short_name": "Muscu KC",
+  "description": "Suivi d'entraînement KeepCool - CABLEQUAD & progrès",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0F",
+  "theme_color": "#4FC3F7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
