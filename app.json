@@ -18,6 +18,10 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#0A0A0F"
       }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "webpack"
     }
   }
 }
